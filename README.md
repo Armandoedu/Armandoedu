@@ -3,11 +3,16 @@
 
 
 <div>
- 
-          
+   <img src="https://github.com/Armandoedu/Armandoedu/assets/113314643/580cb0e2-fe8f-4dd4-8fb3-9bbb89a6c24c" width="300px"/>     
 </div>
-<div align="left">
-   <img src="https://github.com/Armandoedu/Armandoedu/assets/113314643/580cb0e2-fe8f-4dd4-8fb3-9bbb89a6c24c" width="300px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60px"/>
+
+<br>
+
+<div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" />
 </div>
 
 <br>
