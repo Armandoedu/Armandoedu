@@ -1,7 +1,10 @@
 ### Hello, World! call-me Armando Eduardo
 # Welcome my profile of github 👋
 
-![octocat-1694358557116](https://github.com/Armandoedu/Armandoedu/assets/113314643/580cb0e2-fe8f-4dd4-8fb3-9bbb89a6c24c)
+
+<div>
+  <img src="https://github.com/Armandoedu/Armandoedu/assets/113314643/580cb0e2-fe8f-4dd4-8fb3-9bbb89a6c24c" width="300px"/>
+</div>
 
 <div align="center">
 <a href="https://github.com/Armandoedu">
